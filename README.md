@@ -3,7 +3,7 @@ Code cho bài tập lớn 1 cho môn học Chương Trình Dịch.
 
 Phần Code trên bao gồm:
 
-1, Bộ phân tích từ vựng: BTL1.f
+1, Bộ phân tích từ vựng: BTL1.l
 
 2, Bộ phân tích cú pháp: BTL1.y , BTL1.h, BTL1.c
 
